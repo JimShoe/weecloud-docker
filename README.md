@@ -1,6 +1,6 @@
 # Dockerfile for [eirikb/weecloud](https://github.com/eirikb/weecloud)
 * This dockerfile installs ssh, nodejs, supervisord, and weecloud
-** It then starts ssh and weecloud under supervisord
+* It then starts ssh and weecloud under supervisord
 
 ## Usage
 ```
